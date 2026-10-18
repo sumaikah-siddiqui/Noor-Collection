@@ -95,6 +95,16 @@ requirements.txt
 | Add/Restock Products        | ✅    | ❌    | ✅                 |
 | Manage Employees             | ✅    | ❌    | ❌                 |
 
+## Screen shots
+   ![Login page](screenshot/login.png)
+   ![Dashboard](screenshot/dashboard.png)
+   ![Products page](screenshot/products.png)
+   ![Orders page](screenshot/orders.png)
+   ![Customers page](screenshot/customer.png)
+   ![Employee page](screenshot/employees.png)
+   
+   
+
 ## Notes
 
 - New orders go through the `sp_process_secure_checkout` stored procedure
